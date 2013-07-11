@@ -1,0 +1,14 @@
+{
+  "name" : "pkgvers",
+  "version" : "0.0.1",
+  "dependencies": {
+
+  },
+  "bin": {
+    "pkgvers": "./bin/pkgvers"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ithkuil/pkgvers.git"
+  }
+}
