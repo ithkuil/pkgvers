@@ -1,6 +1,7 @@
 {
   "name" : "pkgvers",
   "version" : "0.0.1",
+  "description": "Lists package versions for local packages in subfolders",
   "dependencies": {
 
   },
